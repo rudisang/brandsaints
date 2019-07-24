@@ -1780,7 +1780,7 @@ $bg-gray: #f9f9f9;
 
 // Only For Mobile and Tab Navbar
 @media only #{$media} and ($feature_max : $value_three) {
-    .artflex-mobile-nav {
+    .brandsaints-mobile-nav {
         display: block;
         position: relative;
 
@@ -1802,7 +1802,7 @@ $bg-gray: #f9f9f9;
             }
         }
     }
-    .artflex-nav {
+    .brandsaints-nav {
         display: none !important;
     }
 }

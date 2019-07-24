@@ -1,5 +1,5 @@
 /*
-@File: Artflex Template Styles
+@File: brandsaints Template Styles
 
 * This file contains the styling for the actual tepmlate, this
 is the file you need to edit to change the look of the
@@ -468,15 +468,15 @@ Preloader CSS
 /*================================================
 Navbar CSS
 =================================================*/
-.artflex-mobile-nav {
+.brandsaints-mobile-nav {
   display: none;
 }
 
-.artflex-mobile-nav.mean-container .mean-nav ul li a.active {
+.brandsaints-mobile-nav.mean-container .mean-nav ul li a.active {
   color: #00fff7;
 }
 
-.artflex-nav {
+.brandsaints-nav {
   background: transparent;
   position: absolute;
   top: 0;
@@ -487,18 +487,18 @@ Navbar CSS
   height: auto;
 }
 
-.artflex-nav nav ul {
+.brandsaints-nav nav ul {
   padding: 0;
   margin: 0;
   list-style-type: none;
 }
 
-.artflex-nav nav .navbar-nav .nav-item {
+.brandsaints-nav nav .navbar-nav .nav-item {
   position: relative;
   padding: 15px 0;
 }
 
-.artflex-nav nav .navbar-nav .nav-item a {
+.brandsaints-nav nav .navbar-nav .nav-item a {
   font-weight: 500;
   font-size: 14px;
   color: #121619;
@@ -510,15 +510,15 @@ Navbar CSS
   margin-right: 13px;
 }
 
-.artflex-nav nav .navbar-nav .nav-item a:hover, .artflex-nav nav .navbar-nav .nav-item a:focus, .artflex-nav nav .navbar-nav .nav-item a.active {
+.brandsaints-nav nav .navbar-nav .nav-item a:hover, .brandsaints-nav nav .navbar-nav .nav-item a:focus, .brandsaints-nav nav .navbar-nav .nav-item a.active {
   color: #00fff7;
 }
 
-.artflex-nav nav .navbar-nav .nav-item:hover a {
+.brandsaints-nav nav .navbar-nav .nav-item:hover a {
   color: #00fff7;
 }
 
-.artflex-nav nav .navbar-nav .nav-item .dropdown_menu {
+.brandsaints-nav nav .navbar-nav .nav-item .dropdown_menu {
   -webkit-box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.05);
           box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.05);
   background: #121619;
@@ -537,12 +537,12 @@ Navbar CSS
   transition: all 0.3s ease-in-out;
 }
 
-.artflex-nav nav .navbar-nav .nav-item .dropdown_menu li {
+.brandsaints-nav nav .navbar-nav .nav-item .dropdown_menu li {
   position: relative;
   padding: 0;
 }
 
-.artflex-nav nav .navbar-nav .nav-item .dropdown_menu li a {
+.brandsaints-nav nav .navbar-nav .nav-item .dropdown_menu li a {
   font-size: 14px;
   font-weight: 500;
   padding: 9px 15px;
@@ -551,11 +551,11 @@ Navbar CSS
   color: #ffffff;
 }
 
-.artflex-nav nav .navbar-nav .nav-item .dropdown_menu li a:hover, .artflex-nav nav .navbar-nav .nav-item .dropdown_menu li a:focus, .artflex-nav nav .navbar-nav .nav-item .dropdown_menu li a.active {
+.brandsaints-nav nav .navbar-nav .nav-item .dropdown_menu li a:hover, .brandsaints-nav nav .navbar-nav .nav-item .dropdown_menu li a:focus, .brandsaints-nav nav .navbar-nav .nav-item .dropdown_menu li a.active {
   color: #00fff7;
 }
 
-.artflex-nav nav .navbar-nav .nav-item .dropdown_menu li .dropdown_menu {
+.brandsaints-nav nav .navbar-nav .nav-item .dropdown_menu li .dropdown_menu {
   position: absolute;
   left: 220px;
   top: 0;
@@ -563,39 +563,39 @@ Navbar CSS
   visibility: hidden !important;
 }
 
-.artflex-nav nav .navbar-nav .nav-item .dropdown_menu li .dropdown_menu li a {
+.brandsaints-nav nav .navbar-nav .nav-item .dropdown_menu li .dropdown_menu li a {
   color: #ffffff;
 }
 
-.artflex-nav nav .navbar-nav .nav-item .dropdown_menu li .dropdown_menu li a:hover, .artflex-nav nav .navbar-nav .nav-item .dropdown_menu li .dropdown_menu li a:focus, .artflex-nav nav .navbar-nav .nav-item .dropdown_menu li .dropdown_menu li a.active {
+.brandsaints-nav nav .navbar-nav .nav-item .dropdown_menu li .dropdown_menu li a:hover, .brandsaints-nav nav .navbar-nav .nav-item .dropdown_menu li .dropdown_menu li a:focus, .brandsaints-nav nav .navbar-nav .nav-item .dropdown_menu li .dropdown_menu li a.active {
   color: #00fff7;
 }
 
-.artflex-nav nav .navbar-nav .nav-item .dropdown_menu li:hover .dropdown_menu {
+.brandsaints-nav nav .navbar-nav .nav-item .dropdown_menu li:hover .dropdown_menu {
   opacity: 1 !important;
   visibility: visible !important;
   top: -20px !important;
 }
 
-.artflex-nav nav .navbar-nav .nav-item .dropdown_menu li:hover a {
+.brandsaints-nav nav .navbar-nav .nav-item .dropdown_menu li:hover a {
   color: #00fff7;
 }
 
-.artflex-nav nav .navbar-nav .nav-item:hover ul {
+.brandsaints-nav nav .navbar-nav .nav-item:hover ul {
   opacity: 1;
   visibility: visible;
   top: 100%;
 }
 
-.artflex-nav nav .others-option {
+.brandsaints-nav nav .others-option {
   margin-left: 10px;
 }
 
-.artflex-nav nav .others-option ul li {
+.brandsaints-nav nav .others-option ul li {
   display: inline-block;
 }
 
-.artflex-nav nav .others-option ul li .search-popup-icon {
+.brandsaints-nav nav .others-option ul li .search-popup-icon {
   color: #121619;
   cursor: pointer;
   -webkit-transition: 0.5s;
@@ -603,17 +603,17 @@ Navbar CSS
   font-size: 18px;
 }
 
-.artflex-nav nav .others-option ul li .search-popup-icon:hover {
+.brandsaints-nav nav .others-option ul li .search-popup-icon:hover {
   color: #00fff7;
 }
 
-.artflex-nav nav .others-option ul li a.cart-icon {
+.brandsaints-nav nav .others-option ul li a.cart-icon {
   font-size: 20px;
   margin: 0 19px 0 14px;
   position: relative;
 }
 
-.artflex-nav nav .others-option ul li a.cart-icon span {
+.brandsaints-nav nav .others-option ul li a.cart-icon span {
   font-size: 11px;
   font-size: 10px;
   background: red;
@@ -630,13 +630,13 @@ Navbar CSS
   right: -9px;
 }
 
-.artflex-nav nav .others-option ul li .side-menu {
+.brandsaints-nav nav .others-option ul li .side-menu {
   cursor: pointer;
   position: relative;
   width: 32px;
 }
 
-.artflex-nav nav .others-option ul li .side-menu .bar-1::before, .artflex-nav nav .others-option ul li .side-menu .bar-1::after {
+.brandsaints-nav nav .others-option ul li .side-menu .bar-1::before, .brandsaints-nav nav .others-option ul li .side-menu .bar-1::after {
   position: absolute;
   bottom: -3px;
   width: 6px;
@@ -648,12 +648,12 @@ Navbar CSS
   transition: 0.5s;
 }
 
-.artflex-nav nav .others-option ul li .side-menu .bar-1::after {
+.brandsaints-nav nav .others-option ul li .side-menu .bar-1::after {
   top: -20px;
   height: 9px;
 }
 
-.artflex-nav nav .others-option ul li .side-menu .bar-2::before, .artflex-nav nav .others-option ul li .side-menu .bar-2::after {
+.brandsaints-nav nav .others-option ul li .side-menu .bar-2::before, .brandsaints-nav nav .others-option ul li .side-menu .bar-2::after {
   position: absolute;
   bottom: -3px;
   width: 6px;
@@ -665,12 +665,12 @@ Navbar CSS
   transition: 0.5s;
 }
 
-.artflex-nav nav .others-option ul li .side-menu .bar-2::after {
+.brandsaints-nav nav .others-option ul li .side-menu .bar-2::after {
   top: -20px;
   height: 12px;
 }
 
-.artflex-nav nav .others-option ul li .side-menu .bar-3::before, .artflex-nav nav .others-option ul li .side-menu .bar-3::after {
+.brandsaints-nav nav .others-option ul li .side-menu .bar-3::before, .brandsaints-nav nav .others-option ul li .side-menu .bar-3::after {
   position: absolute;
   bottom: -3px;
   width: 6px;
@@ -682,45 +682,45 @@ Navbar CSS
   transition: 0.5s;
 }
 
-.artflex-nav nav .others-option ul li .side-menu .bar-3::after {
+.brandsaints-nav nav .others-option ul li .side-menu .bar-3::after {
   top: -20px;
   height: 9px;
 }
 
-.artflex-nav nav .others-option ul li .side-menu:hover .bar-1::before, .artflex-nav nav .others-option ul li .side-menu:hover .bar-1::after {
+.brandsaints-nav nav .others-option ul li .side-menu:hover .bar-1::before, .brandsaints-nav nav .others-option ul li .side-menu:hover .bar-1::after {
   height: 14px;
   background: #00fff7;
 }
 
-.artflex-nav nav .others-option ul li .side-menu:hover .bar-1::after {
+.brandsaints-nav nav .others-option ul li .side-menu:hover .bar-1::after {
   height: 10px;
   background: #F54EA2;
 }
 
-.artflex-nav nav .others-option ul li .side-menu:hover .bar-2::before, .artflex-nav nav .others-option ul li .side-menu:hover .bar-2::after {
+.brandsaints-nav nav .others-option ul li .side-menu:hover .bar-2::before, .brandsaints-nav nav .others-option ul li .side-menu:hover .bar-2::after {
   height: 10px;
 }
 
-.artflex-nav nav .others-option ul li .side-menu:hover .bar-2::after {
+.brandsaints-nav nav .others-option ul li .side-menu:hover .bar-2::after {
   height: 14px;
 }
 
-.artflex-nav nav .others-option ul li .side-menu:hover .bar-3::before, .artflex-nav nav .others-option ul li .side-menu:hover .bar-3::after {
+.brandsaints-nav nav .others-option ul li .side-menu:hover .bar-3::before, .brandsaints-nav nav .others-option ul li .side-menu:hover .bar-3::after {
   height: 14px;
   background: #F54EA2;
 }
 
-.artflex-nav nav .others-option ul li .side-menu:hover .bar-3::after {
+.brandsaints-nav nav .others-option ul li .side-menu:hover .bar-3::after {
   height: 10px;
   background: #00fff7;
 }
 
-.artflex-nav.p-relative {
+.brandsaints-nav.p-relative {
   position: relative;
   padding-top: 0;
 }
 
-.artflex-nav.is-sticky {
+.brandsaints-nav.is-sticky {
   position: fixed;
   top: 0;
   left: 0;

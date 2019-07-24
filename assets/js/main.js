@@ -32,10 +32,10 @@
 		// Header Sticky
 		$(window).on('scroll',function() {
             if ($(this).scrollTop() > 120){  
-                $('.artflex-nav').addClass("is-sticky");
+                $('.brandsaints-nav').addClass("is-sticky");
             }
             else{
-                $('.artflex-nav').removeClass("is-sticky");
+                $('.brandsaints-nav').removeClass("is-sticky");
             }
 		});
 

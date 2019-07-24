@@ -1,5 +1,5 @@
 /*==============================================================*/
-// Artflex Contact Form  JS
+// brandsaints Contact Form  JS
 /*==============================================================*/
 (function ($) {
     "use strict"; // Start of use strict
