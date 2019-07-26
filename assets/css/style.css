@@ -5012,7 +5012,7 @@ Coming Soon CSS
 .coming-soon {
   position: relative;
   z-index: 1;
-  background-image: url(../../assets/img/coming-soon-banner.jpg);
+  background-image: url(/assets/img/coming-soon-banner.jpg);
   background-position: center center;
   background-size: cover;
   background-attachment: fixed;
