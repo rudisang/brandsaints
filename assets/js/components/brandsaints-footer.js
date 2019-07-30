@@ -22,8 +22,8 @@ Vue.component('brandsaints-footer', {
                     <ul class="list">
                         <li><a href="/">Home</a></li>
                         <li><a href="/services.html">Services</a></li>
-                        <li><a href="/portfolio">Portfolio</a></li>
-                        <li><a href="index.html#about">About us</a></li>
+                        <li><a href="/portfolio.html">Portfolio</a></li>
+                        <li><a href="index.html#brandsaints-about">About us</a></li>
                         <li><a href="/contact.html">Contact us</a></li>
                         <li><a href="/faqs.html">FAQ's</a></li>
                     </ul>
@@ -44,7 +44,7 @@ Vue.component('brandsaints-footer', {
                     <br>
                     <ul class="social-links">
                         <li><a target="_blank" href="https://www.facebook.com/BrandSaints-BW-217644005559329/?hc_ref=ARSyl7HKuQL5WAFB0fNSy7cj_xHbCi3rLO-YVZTEuKTcADFPfXpHtIc-Z6ZKaaI4zNE"><i class="icofont-facebook"></i></a></li>
-                        <li><a href="#"><i class="icofont-twitter"></i></a></li>
+                        <li><a href="https://twitter.com/BrandsaintsB"><i class="icofont-twitter"></i></a></li>
                         <li><a href="https://www.instagram.com/brandsaints_bw"><i class="icofont-instagram"></i></a></li>
                         <li><a href="#"><i class="icofont-github"></i></a></li>
                     </ul>
@@ -67,7 +67,9 @@ Vue.component('brandsaints-footer', {
                         <li>
                             <i class="icofont-phone"></i>
                             <span>Phone:</span>
-                            <a href="#">+267 71 234 567</a>
+                            <a>+267 76 984 591</a>
+                            <a>+267 76 406 773</a> <br>
+                            <a>+267 74 739 446</a>
                         </li>
 
                         <li>
@@ -102,5 +104,6 @@ Vue.component('brandsaints-footer', {
   
   new Vue({
     el: '#brandsaints-footer',
+    
     
   })
